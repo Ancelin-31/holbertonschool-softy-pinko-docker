@@ -1,1 +1,1 @@
-# holbertonschool-softy-pinko-docker
+This project teaches us about how to properly use Docker
